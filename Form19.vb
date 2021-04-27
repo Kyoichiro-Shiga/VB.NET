@@ -4,7 +4,7 @@ Public Class Form19
     Private mainGraphics As Graphics
     Private PlayerImage As Bitmap
 
-    Private Const _PATH As String = "C:\temp\JWS\VB.NET\Practice19\"
+    Private Const _PATH As String = "C:\temp\VB.NET\Practice19\"
     Private Const _SHIP As String = "ship.bmp"
 
     Dim x As Integer        ' 横軸（右方向に正、左方向に負）
